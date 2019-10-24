@@ -1,2 +1,2 @@
-# Csv array Lib by Undefined
-C lib extension for csv using array lib
+# Csv Lib by Undefined
+C lib for csv read/write
