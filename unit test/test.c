@@ -15,7 +15,7 @@ int main(void)
 
     csv = ud_csva_read("test.csv", false);
     ud_arr_print(csv);
-    // ud_csva_write("test2.csv", csv);
+    ud_csva_write("test2.csv", csv, "tout");
     ud_arr_free(csv);
 
     csv = ud_csva_read("test2.csv", false);
